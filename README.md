@@ -1,7 +1,9 @@
 # world-texting-foundation
 
 Messaging acronyms are everywhere now. Do you know all of them?
+
 World Texting Foundation (WTF) is a service to search for acronyms.
+
 It's a REST API developed in node.js with typescript.
 
 
